@@ -1,6 +1,6 @@
 {
     "/api": {
-      "target": "https://localhost:44302/",
+      "target": "https://ecolifeapi.developvn.click/api/",
       "secure": true,
       "changeOrigin": true,
       "pathRewrite": {
